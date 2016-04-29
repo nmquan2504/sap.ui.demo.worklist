@@ -1,0 +1,34 @@
+{
+    "application": {
+        "id": "",
+        "title": "sap.ui.demo.worklist",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/webapp",
+        "appUrl": "#sapuidemoworklist-Display",
+        "navigationComponentName": "sap.ui.demo.worklist",
+        "intentSemanticObject": "sap.ui.demo.worklist",
+        "intentAction": "Display",
+        "html5ApplicationName": "sapuidemoworklist",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "30edf488-470c-440d-89e6-38d538febc1a-1461852781639"
+        ],
+        "contentPackages": [
+            "f6296c42-b2fe-4972-84a2-fd95bc37fef0-1461852767443"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Worklist",
+        "subtitle": "Your daily work list",
+        "searchKeywords": "Worklist,Your daily work list",
+        "displayIconUrl": "sap-icon://accelerated",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
